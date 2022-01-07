@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background: red;
+}
+
+img {
+    width: 142px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-decoration: none;
+}
+
+/* GLOBAL CLASS */
+
+#img-size {
+    width: 426px;
+    height: 518px;
+}
+#home {
+    background: #ffc107;
+    color: #fff;
+}
+#color-text {
+    color: #fff;
+}
+
+#img-size-facil {
+    width: auto;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+#img-size-juros {
+    width: auto;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+.box-section {
+    border-bottom: 1px solid grey;
+}
+
+#img-size-padrao {
+    width: 200px;
+    height: auto;
+}
